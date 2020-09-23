@@ -19,11 +19,9 @@
         >
           <view
             class="iconfont mr-20 icon-btn"
-            v-if="!initOptions.isTabPage === true"
             @click="handleRouterBack()"
           >
-          <view class="iconfont"></view>
-            <!-- <image class="iconfont imgCover" src="/static/icon/com-back-white.png" /> -->
+            <image class="imgCover" src="/static/icon/com_back.png" />
           </view>
           <view class="iconfont icon-btn">
             <slot></slot>
@@ -65,7 +63,7 @@ export default {
           (await uni.$com.headerInfo) ||
           (await uni.getStorageSync("headerInfo")) ||
           (await this.getHeaderBySystermInfo());
-          
+
         await this.setPageTitleByCurrentRouterInfo();
 
         console.info("header_top", header_top);
@@ -165,7 +163,7 @@ export default {
             menuBtn_top = menuButton.top;
 
             header_top = menuBtn_top - (header_height - menuBtn_height) / 2;
-          }else{
+          } else {
             header_top = 0;
           }
 
@@ -186,7 +184,7 @@ export default {
       });
     },
     handleRouterBack() {
-      console.info('1212');
+      console.info("1212");
       uni.$router.back(-1);
     },
   },

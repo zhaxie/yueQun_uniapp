@@ -1,0 +1,24 @@
+
+.header-modules {
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
+.header-modules .main-content {
+  height: 88rpx;
+  line-height: 88rpx;
+  text-align: center;
+  font-size: 18px;
+}
+.header-modules .main-content .left-btn-content {
+  left: 12rpx;
+  top: 0;
+  bottom: 0;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.header-modules .main-content .left-btn-content .icon-btn {
+  border: 10rpx solid transparent;
+}
+

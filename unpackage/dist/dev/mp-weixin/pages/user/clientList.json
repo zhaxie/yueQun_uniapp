@@ -1,0 +1,8 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "header-search": "/components/headerSearch",
+    "list-wrapper": "/components/global/listWrapper"
+  }
+}

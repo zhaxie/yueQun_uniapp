@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "bind-mobile-dialog": "/components/bindMobileDialog"
+  }
+}

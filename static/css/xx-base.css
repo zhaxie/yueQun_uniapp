@@ -843,7 +843,7 @@
   
   .iconfont{
     line-height: 1;
-    border: 1px solid #000;
+    /* border: 1px solid #000; */
     width: 44rpx;
     height: 44rpx;
     display: flex;

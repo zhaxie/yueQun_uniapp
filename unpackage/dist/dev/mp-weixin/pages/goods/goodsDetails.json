@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "goods-banner-swiper": "/components/goodsBannerSwiper"
+  }
+}

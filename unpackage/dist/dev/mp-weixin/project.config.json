@@ -49,6 +49,48 @@
           "query": "",
           "id": 3,
           "pathName": "pages/tabPages/userCenter"
+        },
+        {
+          "name": "搜索-首页",
+          "query": "",
+          "id": 4,
+          "pathName": "pages/search/searchIndex"
+        },
+        {
+          "name": "用户-登录",
+          "query": "",
+          "id": 5,
+          "pathName": "pages/user/login"
+        },
+        {
+          "name": "用户-客户列表",
+          "query": "",
+          "id": 6,
+          "pathName": "pages/user/clientList"
+        },
+        {
+          "name": "用户-客户资料详情",
+          "query": "",
+          "id": 7,
+          "pathName": "pages/user/clientDetails"
+        },
+        {
+          "name": "订单-订单列表",
+          "query": "",
+          "id": 8,
+          "pathName": "pages/order/orderList"
+        },
+        {
+          "name": "订单-订单详情",
+          "query": "id=143764",
+          "id": 9,
+          "pathName": "pages/order/orderDetails"
+        },
+        {
+          "name": "商品-商品详情",
+          "query": "id=7091",
+          "id": 10,
+          "pathName": "pages/goods/goodsDetails"
         }
       ]
     }

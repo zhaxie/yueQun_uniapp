@@ -1,1 +1,1 @@
-<view class="data-v-32d7cc26">shopCart</view>
+<view class="data-v-32d7cc26"><nav-bar vue-id="2820b68e-1" class="data-v-32d7cc26" bind:__l="__l"></nav-bar><view class="position-fixed undevelop-tips data-v-32d7cc26"><img-with-loading vue-id="2820b68e-2" withoutDomainName="{{true}}" src="/static/img/undevelop_cart_tips.png" class="data-v-32d7cc26" bind:__l="__l"></img-with-loading></view></view>

@@ -1,0 +1,12 @@
+.com-big-btn{
+	line-height: 88rpx;
+	background-color: #3079ec;
+    border-radius: 44rpx;
+    text-align: center;
+    font-weight: bold;
+    font-size: 34rpx;
+    color: #fff;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    width: initial !important;
+}
